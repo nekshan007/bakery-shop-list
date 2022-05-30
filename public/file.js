@@ -11,7 +11,7 @@ document.querySelector('#search').onclick=() =>{
 }
 
 
-var swiper = new Swiper(".product-row", {
+var swiper = new Swiper(".Category-row", {
     spaceBetween: 30,
     loop:true,
     centeredSlides:true,
